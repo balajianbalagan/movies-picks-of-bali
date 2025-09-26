@@ -69,15 +69,55 @@ export default function Home() {
 
         <div className="max-w-4xl mx-auto relative z-20">
           {/* Title */}
-          <h1 className="responsive-title gradient-text mb-4 animate-fade-in">
+          <h1
+            className="
+    responsive-title
+    gradient-text
+    mb-4
+    animate-fade-in
+    transition
+    duration-500
+    ease-in-out
+    hover:scale-105
+    hover:text-transparent
+    hover:bg-clip-text
+    hover:bg-gradient-to-r
+    hover:from-yellow-400
+    hover:via-red-500
+    hover:to-purple-600
+    hover:drop-shadow-lg
+     hover:cursor-pointer
+  "
+          >
             Bali's Personal Movie List
           </h1>
 
+
           {/* Subtitle */}
-          <p className="responsive-subtitle text-slate-300 mb-8 max-w-2xl mx-auto leading-relaxed animate-slide-up">
+          <p
+            className="
+    responsive-subtitle
+    text-slate-300
+    mb-8
+    max-w-2xl
+    mx-auto
+    leading-relaxed
+    animate-slide-up
+    transition
+    duration-300
+    ease-in-out
+    hover:scale-105
+    hover:text-slate-50
+    hover:drop-shadow-md
+    hover:cursor-pointer
+  "
+          >
             💜 A curated collection of exceptional films that have touched my heart and mind.
-            <span className="block mt-2 text-slate-400">Each movie here comes with a personal recommendation and review.</span>
+            <span className="block mt-2 text-slate-400">
+              Each movie here comes with a personal recommendation and review.
+            </span>
           </p>
+
 
           {/* Stats */}
           <div className="flex justify-center items-center gap-8 mb-8 text-sm text-slate-400">

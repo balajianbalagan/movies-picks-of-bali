@@ -7,7 +7,7 @@ export const movieData: MovieData = {
       "title": "Extremely Close and Incredibly Loud",
       "year": "2011",
       "language": "English",
-      "rating": 4.2,
+      "rating": 3.8,
       "review": "A deeply moving film about loss and healing. The young protagonist's journey through New York after 9/11 is both heartbreaking and hopeful. Tom Hanks delivers another stellar performance, and the cinematography beautifully captures the emotional weight of the story.",
       "genre": "Drama",
       "director": "Stephen Daldry",
@@ -19,7 +19,7 @@ export const movieData: MovieData = {
       "year": "2003",
       "language": "Tamil",
       "rating": 4.8,
-      "review": "A masterpiece by Kamal Haasan that perfectly blends philosophy, comedy, and human emotions. The film's message about love and humanity is timeless. Madhavan's chemistry with Kamal is exceptional, making this a must-watch classic.",
+      "review": "A masterpiece by Kamal Haasan that perfectly blends philosophy, comedy, and human emotions. The film's message about love and humanity is timeless. Madhavan's chemistry with Kamal is exceptional, making this a must-watch classic. Movies with two contrasting characters that travel together always work well, and this is no exception.",
       "genre": "Drama, Comedy",
       "director": "Sundar C",
       "actors": "Kamal Haasan, Madhavan",
@@ -29,12 +29,12 @@ export const movieData: MovieData = {
       "title": "Thanga Meengal",
       "year": "2013",
       "language": "Tamil",
-      "rating": 4.5,
-      "review": "Ram's directorial debut is a touching father-daughter story. The film's authentic portrayal of a single parent's struggles and the bond with his daughter is beautifully crafted. Simple yet powerful storytelling.",
+      "rating": 4.8,
+      "review": "Ram's acting debut is a touching father-daughter story. The film's authentic portrayal of a single parent's struggles and the bond with his daughter is beautifully crafted. Simple yet powerful storytelling. The real heroes of the film are the women, especially Sadhana and Shelly Kishore, who delivers a natural and heartfelt performance.",
       "genre": "Drama, Family",
       "director": "Ram",
       "actors": "Ram, Baby Sadhana",
-      "poster": "https://m.media-amazon.com/images/M/MV5BOTY3MWE0MjYtMDkzZi00MzgyLThiYzAtYzc5YmQwNzk4MTRlXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_SX300.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/8a/Thanga_Meenkal.jpg"
     },
     {
       "title": "Catch Me If You Can",
@@ -62,12 +62,12 @@ export const movieData: MovieData = {
       "title": "The Terminal",
       "year": "2004",
       "language": "English",
-      "rating": 4.2,
+      "rating": 4.8,
       "review": "A heartwarming comedy-drama that showcases Tom Hanks's incredible talent. The film explores themes of home, identity, and bureaucracy with humor and charm.",
       "genre": "Comedy, Drama",
       "director": "Steven Spielberg",
       "actors": "Tom Hanks, Catherine Zeta-Jones",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTUzMTU2NTkyOV5BMl5BanBnXkFtZTcwNDQ1OTU1NA@@._V1_SX300.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/86/Movie_poster_the_terminal.jpg"
     },
     {
       "title": "Ford v Ferrari",
@@ -78,7 +78,7 @@ export const movieData: MovieData = {
       "genre": "Action, Biography, Drama",
       "director": "James Mangold",
       "actors": "Matt Damon, Christian Bale",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMGY2M2QyMDgtYjUxZi00NjgyLWFlNTktNmI0YmU4YWE1YzljXkEyXkFqcGc@._V1_SX300.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/a/a4/Ford_v._Ferrari_%282019_film_poster%29.png"
     },
     {
       "title": "Captain Fantastic",
@@ -90,6 +90,72 @@ export const movieData: MovieData = {
       "director": "Matt Ross",
       "actors": "Viggo Mortensen, Frank Langella, Kathryn Hahn",
       "poster": "https://upload.wikimedia.org/wikipedia/en/c/c2/Captain_Fantastic_poster.jpg"
+    },
+    {
+      "title": "Thenali",
+      "year": "2000",
+      "language": "Tamil",
+      "rating": 4.2,
+      "review": "A hilarious comedy featuring Kamal Haasan as a man with multiple phobias seeking psychiatric help. The film's humor is intelligent and the performances are excellent.",
+      "genre": "Comedy",
+      "director": "K. S. Ravikumar",
+      "actors": "Kamal Haasan, Jayaram, Jyothika",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDRkNzY3OTgtMjE2OS00OTk1LWE0MDctNjgyODJhNzM4YjJhXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "title": "Avvai Shanmughi",
+      "year": "1996",
+      "language": "Tamil",
+      "rating": 4.1,
+      "review": "Kamal Haasan's brilliant performance as a man disguised as an elderly woman to be with his daughter. A heartwarming comedy with excellent emotional depth.",
+      "genre": "Comedy, Family",
+      "director": "K. S. Ravikumar",
+      "actors": "Kamal Haasan, Meena, Gemini Ganesan",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/6/60/Avvai_Shanmughi.jpg"
+    },
+    {
+      "title": "Vasool Raja MBBS",
+      "year": "2004",
+      "language": "Tamil",
+      "rating": 4.0,
+      "review": "Kamal Haasan's entertaining remake of Munna Bhai MBBS with his own unique touch. A perfect blend of comedy and emotion.",
+      "genre": "Comedy, Drama",
+      "director": "Saran",
+      "actors": "Kamal Haasan, Sneha, Prakash Raj",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/e/e4/Vasool_Raja_MBBS.jpg"
+    },
+    {
+      "title": "A Beautiful Mind",
+      "year": "2001",
+      "language": "English",
+      "rating": 4.4,
+      "review": "Russell Crowe's powerful portrayal of mathematician John Nash's struggle with schizophrenia. A moving story about genius, love, and mental health.",
+      "genre": "Biography, Drama",
+      "director": "Ron Howard",
+      "actors": "Russell Crowe, Jennifer Connelly",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+      "title": "The Green Mile",
+      "year": "1999",
+      "language": "English",
+      "rating": 4.6,
+      "review": "Stephen King adaptation about a gentle giant wrongly convicted of murder. Tom Hanks and Michael Clarke Duncan deliver phenomenal performances in this emotionally powerful film.",
+      "genre": "Crime, Drama, Fantasy",
+      "director": "Frank Darabont",
+      "actors": "Tom Hanks, Michael Clarke Duncan",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_SX300.jpg"
+    },
+    {
+      "title": "The Fault in Our Stars",
+      "year": "2014",
+      "language": "English",
+      "rating": 4.1,
+      "review": "A touching romance between two teenagers with cancer. Despite dealing with heavy themes, the film finds beauty and hope in love and human connection.",
+      "genre": "Drama, Romance",
+      "director": "Josh Boone",
+      "actors": "Shailene Woodley, Ansel Elgort",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzQ1MzI4MTk2NF5BMl5BanBnXkFtZTgwNDk4NzI2MTE@._V1_SX300.jpg"
     }
   ],
   "Some times isook to cry mame 😭": [
@@ -113,7 +179,7 @@ export const movieData: MovieData = {
       "genre": "Biography, Drama, History",
       "director": "Steven Spielberg",
       "actors": "Liam Neeson, Ralph Fiennes",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxZjItMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_SX300.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/3/38/Schindler%27s_List_movie.jpg"
     },
     {
       "title": "12 Years a Slave",
@@ -125,6 +191,39 @@ export const movieData: MovieData = {
       "director": "Steve McQueen",
       "actors": "Chiwetel Ejiofor, Michael Fassbender",
       "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_SX300.jpg"
+    },
+    {
+      "title": "Mahanadhi",
+      "year": "1994",
+      "language": "Tamil",
+      "rating": 4.7,
+      "review": "Kamal Haasan's emotionally devastating portrayal of a man's downfall and struggle to save his daughter. One of Tamil cinema's most powerful performances dealing with human trafficking and corruption.",
+      "genre": "Drama, Crime",
+      "director": "Santhana Bharathi",
+      "actors": "Kamal Haasan, Sukanya, Shobana",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/7b/Mahanadhi.jpg"
+    },
+    {
+      "title": "Moondram Pirai",
+      "year": "1982",
+      "language": "Tamil",
+      "rating": 4.8,
+      "review": "A beautiful and tragic love story between a teacher and a woman suffering from retrograde amnesia. Kamal Haasan and Sridevi deliver career-defining performances in this Balu Mahendra masterpiece.",
+      "genre": "Drama, Romance",
+      "director": "Balu Mahendra",
+      "actors": "Kamal Haasan, Sridevi",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/2/2c/Moondram_Pirai.jpg"
+    },
+    {
+      "title": "Capernaum",
+      "year": "2018",
+      "language": "Arabic",
+      "rating": 4.6,
+      "review": "A heartbreaking story of a young boy suing his parents for giving him life. The film's raw portrayal of poverty and child neglect is both devastating and essential viewing.",
+      "genre": "Drama",
+      "director": "Nadine Labaki",
+      "actors": "Zain Al Rafeea, Yordanos Shiferaw",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjEyOGM4NzYtOTI4MC00ODc5LWI4YTMtNmMyM2Y2MWY2MTQ5XkEyXkFqcGc@._V1_SX300.jpg"
     }
   ],
   "*Tha Action na idhu dhan da 💥": [
@@ -159,7 +258,73 @@ export const movieData: MovieData = {
       "genre": "Crime, Drama",
       "director": "Francis Ford Coppola",
       "actors": "Marlon Brando, Al Pacino, Robert De Niro",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNjliZmIwZTMtOWVlNS00ZmU0LWE0MTctNmViMzM0NjEzYzcxXkEyXkFqcGc@._V1_SX300.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg"
+    },
+    {
+      "title": "City of God",
+      "year": "2002",
+      "language": "Portuguese",
+      "rating": 4.7,
+      "review": "A brutal and beautiful portrayal of life in the favelas of Rio de Janeiro. The film's raw energy and stunning cinematography make it an unforgettable experience about crime and survival.",
+      "genre": "Crime, Drama",
+      "director": "Fernando Meirelles",
+      "actors": "Alexandre Rodrigues, Leandro Firmino",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LWJkMjgtOWVlZGYwZTVkNzNhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    },
+    {
+      "title": "Goodfellas",
+      "year": "1990",
+      "language": "English",
+      "rating": 4.6,
+      "review": "Scorsese's masterpiece about the rise and fall of a mobster. Ray Liotta, Robert De Niro, and Joe Pesci deliver iconic performances in this fast-paced crime epic.",
+      "genre": "Biography, Crime, Drama",
+      "director": "Martin Scorsese",
+      "actors": "Robert De Niro, Ray Liotta, Joe Pesci",
+      "poster": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    },
+    {
+      "title": "Django Unchained",
+      "year": "2012",
+      "language": "English",
+      "rating": 4.5,
+      "review": "Tarantino's stylish revenge western featuring Jamie Foxx as a freed slave turned bounty hunter. The film's blend of violence, humor, and social commentary is masterfully executed.",
+      "genre": "Drama, Western",
+      "director": "Quentin Tarantino",
+      "actors": "Jamie Foxx, Christoph Waltz, Leonardo DiCaprio",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SX300.jpg"
+    },
+    {
+      "title": "Gangs of Wasseypur",
+      "year": "2012",
+      "language": "Hindi",
+      "rating": 4.6,
+      "review": "Anurag Kashyap's epic crime saga spanning generations of a family feud in coal mining areas. A gritty and authentic portrayal of violence and revenge in rural India.",
+      "genre": "Action, Crime, Drama",
+      "director": "Anurag Kashyap",
+      "actors": "Manoj Bajpayee, Richa Chadda, Nawazuddin Siddiqui",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTc5NjY4MjUwNF5BMl5BanBnXkFtZTcwODM3NzAzOQ@@._V1_SX300.jpg"
+    },
+    {
+      "title": "Kill Bill Vol. 1 & 2",
+      "year": "2003",
+      "language": "English",
+      "rating": 4.4,
+      "review": "Tarantino's stylized revenge saga featuring Uma Thurman as The Bride. The films combine martial arts, samurai cinema, and spaghetti westerns into a unique cinematic experience.",
+      "genre": "Action, Crime, Thriller",
+      "director": "Quentin Tarantino",
+      "actors": "Uma Thurman, David Carradine, Lucy Liu",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDM5MTlhNjJmNTMzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    },
+    {
+      "title": "Casino",
+      "year": "1995",
+      "language": "English",
+      "rating": 4.5,
+      "review": "Scorsese's epic about Las Vegas casinos in the 1970s. De Niro and Pesci reunite for another powerful crime drama exploring greed, power, and betrayal.",
+      "genre": "Crime, Drama",
+      "director": "Martin Scorsese",
+      "actors": "Robert De Niro, Sharon Stone, Joe Pesci",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
     }
   ],
   "Terror and horror are irrefutably a part of life 😱": [
@@ -184,6 +349,39 @@ export const movieData: MovieData = {
       "director": "Bong Joon-ho",
       "actors": "Song Kang-ho, Kim Sang-kyung",
       "poster": "https://m.media-amazon.com/images/M/MV5BYmRjOWE5NmMtYTdkYS00ODFlLWJiMTMtYzE2NDZlZjlkZDQ0XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "title": "Black Swan",
+      "year": "2010",
+      "language": "English",
+      "rating": 4.5,
+      "review": "Darren Aronofsky's psychological thriller about a ballet dancer's descent into madness. Natalie Portman's Oscar-winning performance is both beautiful and terrifying.",
+      "genre": "Drama, Thriller",
+      "director": "Darren Aronofsky",
+      "actors": "Natalie Portman, Mila Kunis, Vincent Cassel",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_SX300.jpg"
+    },
+    {
+      "title": "American Psycho",
+      "year": "2000",
+      "language": "English",
+      "rating": 4.2,
+      "review": "A satirical horror about 1980s yuppie culture and toxic masculinity. Christian Bale's chilling performance as Patrick Bateman is both disturbing and darkly humorous.",
+      "genre": "Crime, Drama, Horror",
+      "director": "Mary Harron",
+      "actors": "Christian Bale, Willem Dafoe, Jared Leto",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTY2MjM5MTMzMl5BMl5BanBnXkFtZTgwNzEzMjI3MDI@._V1_SX300.jpg"
+    },
+    {
+      "title": "IT",
+      "year": "2017",
+      "language": "English",
+      "rating": 4.1,
+      "review": "A successful adaptation of Stephen King's novel about children facing their fears. Bill Skarsgård's Pennywise is genuinely terrifying, and the coming-of-age elements add emotional depth.",
+      "genre": "Horror, Thriller",
+      "director": "Andy Muschietti",
+      "actors": "Bill Skarsgård, Jaeden Martell, Finn Wolfhard",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWI4ZDAtZDRmZWIwYjRiNTVhXkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SX300.jpg"
     }
   ],
   "Suspense and thrilling and WTF! movies 🤯": [
@@ -219,6 +417,50 @@ export const movieData: MovieData = {
       "director": "Justine Triet",
       "actors": "Sandra Hüller, Swann Arlaud, Milo Machado-Graner",
       "poster": "https://upload.wikimedia.org/wikipedia/en/8/88/Anatomy_of_a_Fall_%282023%29_film_poster.jpg"
+    },
+    {
+      "title": "Minority Report",
+      "year": "2002",
+      "language": "English",
+      "rating": 4.3,
+      "review": "Spielberg's sci-fi thriller about pre-crime technology raises thought-provoking questions about free will and determinism. Tom Cruise delivers a solid performance in this visually stunning film.",
+      "genre": "Action, Crime, Mystery",
+      "director": "Steven Spielberg",
+      "actors": "Tom Cruise, Colin Farrell, Samantha Morton",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTI3YzQyZjEtZmIxZS00YmY5LWI0Y2YtNDNlOTE5NTEwOTMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+      "title": "Se7en",
+      "year": "1995",
+      "language": "English",
+      "rating": 4.6,
+      "review": "Fincher's dark masterpiece about two detectives hunting a serial killer using the seven deadly sins. Brad Pitt and Morgan Freeman's chemistry combined with the film's gritty atmosphere creates an unforgettable thriller.",
+      "genre": "Crime, Drama, Mystery",
+      "director": "David Fincher",
+      "actors": "Brad Pitt, Morgan Freeman, Kevin Spacey",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+    },
+    {
+      "title": "No Country for Old Men",
+      "year": "2007",
+      "language": "English",
+      "rating": 4.7,
+      "review": "The Coen Brothers' masterful neo-western thriller. Javier Bardem's Anton Chigurh is one of cinema's most terrifying villains. A meditation on fate, violence, and the changing world.",
+      "genre": "Crime, Drama, Thriller",
+      "director": "Ethan Coen, Joel Coen",
+      "actors": "Tommy Lee Jones, Javier Bardem, Josh Brolin",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_SX300.jpg"
+    },
+    {
+      "title": "Shutter Island",
+      "year": "2010",
+      "language": "English",
+      "rating": 4.4,
+      "review": "Scorsese's psychological thriller about a federal marshal investigating a disappearance at a psychiatric facility. Leonardo DiCaprio's paranoid performance keeps you questioning reality until the shocking revelation.",
+      "genre": "Mystery, Thriller",
+      "director": "Martin Scorsese",
+      "actors": "Leonardo DiCaprio, Mark Ruffalo, Ben Kingsley",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTMxMTIyNzMxMV5BMl5BanBnXkFtZTcwOTc4OTI3Mw@@._V1_SX300.jpg"
     }
   ],
   "Thoughtful mattrum vithyasama genre mixed films 🧠": [
@@ -264,7 +506,62 @@ export const movieData: MovieData = {
       "genre": "Black Comedy, Drama, Thriller",
       "director": "Thiagarajan Kumararaja",
       "actors": "Vijay Sethupathi, Fahadh Faasil, Samantha Ruth Prabhu",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTg0NjY2NzM4NV5BMl5BanBnXkFtZTcwNDQ1OTU1NA@@._V1_SX300.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/a/a1/Super_Deluxe_film_poster.jpg"
+    },
+    {
+      "title": "Taxi Driver",
+      "year": "1976",
+      "language": "English",
+      "rating": 4.7,
+      "review": "Scorsese's masterpiece about urban alienation and descent into madness. De Niro's Travis Bickle is one of cinema's most complex anti-heroes. A disturbing yet essential examination of American society.",
+      "genre": "Crime, Drama",
+      "director": "Martin Scorsese",
+      "actors": "Robert De Niro, Jodie Foster, Cybill Shepherd",
+      "poster": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLWFjMjgtN2E2OTAzNzAzYTBlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    },
+    {
+      "title": "Everything Everywhere All at Once",
+      "year": "2022",
+      "language": "English",
+      "rating": 4.6,
+      "review": "A mind-bending multiverse adventure that's simultaneously absurd and deeply emotional. Michelle Yeoh delivers a career-best performance in this genre-defying exploration of family, identity, and possibility.",
+      "genre": "Action, Comedy, Drama",
+      "director": "Daniels",
+      "actors": "Michelle Yeoh, Stephanie Hsu, Ke Huy Quan",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_SX300.jpg"
+    },
+    {
+      "title": "Interstellar",
+      "year": "2014",
+      "language": "English",
+      "rating": 4.5,
+      "review": "Nolan's ambitious space epic that combines hard science with emotional storytelling. A father's love transcends space and time in this visually stunning meditation on humanity's future.",
+      "genre": "Drama, Sci-Fi",
+      "director": "Christopher Nolan",
+      "actors": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+    },
+    {
+      "title": "A Clockwork Orange",
+      "year": "1971",
+      "language": "English",
+      "rating": 4.4,
+      "review": "Kubrick's controversial dystopian masterpiece about violence, free will, and social conditioning. Malcolm McDowell's Alex DeLarge is both charismatic and disturbing in this unforgettable film.",
+      "genre": "Crime, Drama, Sci-Fi",
+      "director": "Stanley Kubrick",
+      "actors": "Malcolm McDowell, Patrick Magee, Michael Bates",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SX300.jpg"
+    },
+    {
+      "title": "12 Angry Men",
+      "year": "1957",
+      "language": "English",
+      "rating": 4.9,
+      "review": "A masterclass in screenwriting and ensemble acting. Set almost entirely in one room, this courtroom drama explores prejudice, justice, and the power of reasonable doubt.",
+      "genre": "Crime, Drama",
+      "director": "Sidney Lumet",
+      "actors": "Henry Fonda, Lee J. Cobb, Martin Balsam",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg"
     }
   ]
 };

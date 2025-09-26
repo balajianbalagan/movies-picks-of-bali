@@ -2,8 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
-
 * {
   margin: 0;
   padding: 0;
@@ -15,7 +13,6 @@ html {
 }
 
 body {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #334155 100%);
   min-height: 100vh;
   overflow-x: hidden;
@@ -174,4 +171,11 @@ body {
 .btn-secondary:hover {
   background: rgba(59, 130, 246, 0.2);
   border-color: rgba(59, 130, 246, 0.5);
+}
+
+/* Title hover glow effect */
+.hover\:drop-shadow-glow:hover {
+  filter: drop-shadow(0 0 20px rgba(59, 130, 246, 0.6))
+          drop-shadow(0 0 40px rgba(139, 92, 246, 0.4))
+          drop-shadow(0 0 60px rgba(236, 72, 153, 0.3));
 }

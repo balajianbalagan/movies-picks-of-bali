@@ -169,14 +169,14 @@ const MovieModal = ({ movie, isOpen, onClose }: MovieModalProps) => {
             </div>
 
             {/* Action Buttons */}
-            <div className="flex flex-wrap gap-4 pt-4">
+            {/* <div className="flex flex-wrap gap-4 pt-4">
               <button className="btn-primary flex-1 sm:flex-none">
                 Add to Watchlist
               </button>
               <button className="btn-secondary flex-1 sm:flex-none">
                 Share Movie
               </button>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
