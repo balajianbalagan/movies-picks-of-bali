@@ -111,7 +111,7 @@ export const movieData: MovieData = {
       "genre": "Comedy, Family",
       "director": "K. S. Ravikumar",
       "actors": "Kamal Haasan, Meena, Gemini Ganesan",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/6/60/Avvai_Shanmughi.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/d5/Avvai_Shanmugi.jpg"
     },
     {
       "title": "Vasool Raja MBBS",
@@ -122,7 +122,7 @@ export const movieData: MovieData = {
       "genre": "Comedy, Drama",
       "director": "Saran",
       "actors": "Kamal Haasan, Sneha, Prakash Raj",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/e/e4/Vasool_Raja_MBBS.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/6/64/Vasool_Raja_MBBS_Poster.jpg"
     },
     {
       "title": "A Beautiful Mind",
@@ -155,7 +155,7 @@ export const movieData: MovieData = {
       "genre": "Drama, Romance",
       "director": "Josh Boone",
       "actors": "Shailene Woodley, Ansel Elgort",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNzQ1MzI4MTk2NF5BMl5BanBnXkFtZTgwNDk4NzI2MTE@._V1_SX300.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/41/The_Fault_in_Our_Stars_%28Official_Film_Poster%29.png"
     }
   ],
   "Some times isook to cry mame 😭": [
@@ -201,7 +201,7 @@ export const movieData: MovieData = {
       "genre": "Drama, Crime",
       "director": "Santhana Bharathi",
       "actors": "Kamal Haasan, Sukanya, Shobana",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/7/7b/Mahanadhi.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/86/Mahanadhi_1994_poster.jpg"
     },
     {
       "title": "Moondram Pirai",
@@ -212,7 +212,7 @@ export const movieData: MovieData = {
       "genre": "Drama, Romance",
       "director": "Balu Mahendra",
       "actors": "Kamal Haasan, Sridevi",
-      "poster": "https://upload.wikimedia.org/wikipedia/en/2/2c/Moondram_Pirai.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/41/Moondram_Pirai_poster.jpg"
     },
     {
       "title": "Capernaum",
@@ -223,7 +223,7 @@ export const movieData: MovieData = {
       "genre": "Drama",
       "director": "Nadine Labaki",
       "actors": "Zain Al Rafeea, Yordanos Shiferaw",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNjEyOGM4NzYtOTI4MC00ODc5LWI4YTMtNmMyM2Y2MWY2MTQ5XkEyXkFqcGc@._V1_SX300.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/13/Capernaum_%28film%29.jpg"
     }
   ],
   "*Tha Action na idhu dhan da 💥": [
@@ -269,7 +269,7 @@ export const movieData: MovieData = {
       "genre": "Crime, Drama",
       "director": "Fernando Meirelles",
       "actors": "Alexandre Rodrigues, Leandro Firmino",
-      "poster": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LWJkMjgtOWVlZGYwZTVkNzNhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/10/CidadedeDeus.jpg"
     },
     {
       "title": "Goodfellas",
@@ -302,7 +302,7 @@ export const movieData: MovieData = {
       "genre": "Action, Crime, Drama",
       "director": "Anurag Kashyap",
       "actors": "Manoj Bajpayee, Richa Chadda, Nawazuddin Siddiqui",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTc5NjY4MjUwNF5BMl5BanBnXkFtZTcwODM3NzAzOQ@@._V1_SX300.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/5/58/Gangs_of_wasseypur_II.jpg"
     },
     {
       "title": "Kill Bill Vol. 1 & 2",
@@ -313,7 +313,7 @@ export const movieData: MovieData = {
       "genre": "Action, Crime, Thriller",
       "director": "Quentin Tarantino",
       "actors": "Uma Thurman, David Carradine, Lucy Liu",
-      "poster": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDM5MTlhNjJmNTMzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/c/c4/Kill_Bill_Volume_2.png"
     },
     {
       "title": "Casino",
@@ -324,7 +324,7 @@ export const movieData: MovieData = {
       "genre": "Crime, Drama",
       "director": "Martin Scorsese",
       "actors": "Robert De Niro, Sharon Stone, Joe Pesci",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/c/cb/Casino_%28Martins_Scorsese_film%29.png"
     }
   ],
   "Terror and horror are irrefutably a part of life 😱": [
@@ -370,7 +370,7 @@ export const movieData: MovieData = {
       "genre": "Crime, Drama, Horror",
       "director": "Mary Harron",
       "actors": "Christian Bale, Willem Dafoe, Jared Leto",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTY2MjM5MTMzMl5BMl5BanBnXkFtZTgwNzEzMjI3MDI@._V1_SX300.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/0/0c/American_Psycho.png"
     },
     {
       "title": "IT",
@@ -381,7 +381,7 @@ export const movieData: MovieData = {
       "genre": "Horror, Thriller",
       "director": "Andy Muschietti",
       "actors": "Bill Skarsgård, Jaeden Martell, Finn Wolfhard",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWI4ZDAtZDRmZWIwYjRiNTVhXkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SX300.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/5/5a/It_%282017%29_poster.jpg"
     }
   ],
   "Suspense and thrilling and WTF! movies 🤯": [
@@ -427,7 +427,7 @@ export const movieData: MovieData = {
       "genre": "Action, Crime, Mystery",
       "director": "Steven Spielberg",
       "actors": "Tom Cruise, Colin Farrell, Samantha Morton",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZTI3YzQyZjEtZmIxZS00YmY5LWI0Y2YtNDNlOTE5NTEwOTMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/44/Minority_Report_Poster.jpg"
     },
     {
       "title": "Se7en",
@@ -460,7 +460,7 @@ export const movieData: MovieData = {
       "genre": "Mystery, Thriller",
       "director": "Martin Scorsese",
       "actors": "Leonardo DiCaprio, Mark Ruffalo, Ben Kingsley",
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTMxMTIyNzMxMV5BMl5BanBnXkFtZTcwOTc4OTI3Mw@@._V1_SX300.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/76/Shutterislandposter.jpg"
     }
   ],
   "Thoughtful mattrum vithyasama genre mixed films 🧠": [
@@ -517,7 +517,7 @@ export const movieData: MovieData = {
       "genre": "Crime, Drama",
       "director": "Martin Scorsese",
       "actors": "Robert De Niro, Jodie Foster, Cybill Shepherd",
-      "poster": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLWFjMjgtN2E2OTAzNzAzYTBlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/3/33/Taxi_Driver_%281976_film_poster%29.jpg"
     },
     {
       "title": "Everything Everywhere All at Once",
