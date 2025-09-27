@@ -100,7 +100,7 @@ export const movieData: MovieData = {
       "genre": "Comedy",
       "director": "K. S. Ravikumar",
       "actors": "Kamal Haasan, Jayaram, Jyothika",
-      "poster": "https://m.media-amazon.com/images/M/MV5BZDRkNzY3OTgtMjE2OS00OTk1LWE0MDctNjgyODJhNzM4YjJhXkEyXkFqcGc@._V1_SX300.jpg"
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/db/Thenali.jpg"
     },
     {
       "title": "Avvai Shanmughi",
