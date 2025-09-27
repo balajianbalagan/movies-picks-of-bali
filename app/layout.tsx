@@ -10,6 +10,9 @@ export const metadata: Metadata = {
   keywords: "movie recommendations, film curation, movie reviews, cinema, bollywood, hollywood, tamil movies",
   authors: [{ name: "Bali" }],
   creator: "Bali",
+  icons: {
+    icon: "/favicon/favicon.ico",
+  },
   openGraph: {
     title: "Bali's Movie Recommendations",
     description: "Personal curated collection of exceptional films across different moods and genres",
